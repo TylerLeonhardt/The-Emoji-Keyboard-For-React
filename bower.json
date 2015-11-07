@@ -1,0 +1,23 @@
+{
+  "name": "emoji_keyboard",
+  "description": "Reactjs Emoji Keyboard Mixin",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "emoji",
+    "keyboard",
+    "react"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.2"
+  }
+}
