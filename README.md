@@ -1,5 +1,7 @@
 # THE EMOJI KEYBOARD
 
+![wow](http://imgur.com/m3wfqj0.png)  
+  
 Let's face it. We all love emojis. However, we often miss out on using them on our laptops and desktops. Not anymore! Now you can add an Emoji Keyboard to your React project with The Emoji Keyboard!
 
 ## Getting Started
